@@ -18,6 +18,8 @@ Por fim alguns meios de contato e redes sociais:
 Essa é a página final:
 ![Captura de tela_12-3-2024_22449_](https://github.com/hugo14253600/curriculo-Hugo/assets/162808170/5418a746-c5cb-446a-aba7-3913ddcd1f27)
 
+O site está no link abaixo:
+ https://hugo14253600.github.io/curriculo-Hugo/
 
 ✒️ Autor:
 Eu Hugo, fui o autor do projeto com colaboração do professor Marcio e alguns videos auxiliares e bolgs de apoiona criação de sites.
